@@ -16,6 +16,7 @@ I was able to increase layers of security by updating the libraries that Artemis
 Once my code was refractored I was able to run unit tests and do a manual code review in order to ensure that the code was functional. I also ensured that I ran another deoendency check to see if I had accidentally introduced any new vulnerabilites.
 
 # What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
-
+I was able to utilize the use of the internet whenever I was stuck on a particular assignment. I believe that the internet is a great resource that willl definitely be helpful in future tasks. I also found the dependency check tool to be very uselful and I will definitely be utlizing it again if needed in the future.
 
 # Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+One peice of work that I might show future employers is my use of the Java Keytool in order to generat certificates.
