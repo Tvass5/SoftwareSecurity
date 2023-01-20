@@ -7,13 +7,13 @@ Artemis Financial is a consulting company that develops financial plans for thei
 I believe that I did a very good job at identifing some of Artemis Financial's security vulnerabilities by looking at the code. It's very important to code securely so that we ensuring that we are protecting the company from hackers that might be seeking to gain access to client and/or business data. Software security helps to provide the company with peace of mind knowing that their information is well protected, it also plays a huge role in protecting the company's retutation and reliability in the long run.
 
 # What part of the vulnerability assessment was challenging or helpful to you?
-
+The most challenging part of the vulnerability assessment was having to comb through the provided code base to identify the vulnerabilites. The most helpfu part was the use of the dependency check tool in order to find the the vulnerabulities.
 
 # How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
-
+I was able to increase layers of security by updating the libraries that Artemis Financial was using to their current versions. I also added user authentication and HTTPS to the code to protech any data being sent over the internet. In the future I would utilize a simulated cyber attack known as penetration testing as a method to assess vulberabilities. This form of testing will allow company testers to identify weaknesses within the system.
 
 # How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
-
+Once my code was refractored I was able to run unit tests and do a manual code review in order to ensure that the code was functional. I also ensured that I ran another deoendency check to see if I had accidentally introduced any new vulnerabilites.
 
 # What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 
